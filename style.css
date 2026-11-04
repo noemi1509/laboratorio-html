@@ -96,5 +96,5 @@ footer {
 /*stile della tabella*/
 table, th, td { border: 1px solid back !important;}
 capition {font-weight:bold; color:blue;}
-th {background-color:yellow;}
-td {text-align:center;}
+th {background-color: yellow;}
+td {text-align: center;}

@@ -98,3 +98,14 @@ table, th, td {border:1px solid black;}
 capition {font-weight:bold; color:blue;}
 th {background-color: yellow;}
 td {text-align: center;}
+/* testo in corsivo*/
+i{
+    font-style: italic;
+}
+/*testo evidenziato*/
+mark{
+    background-color: yellow;
+    color:#243247;
+    padding:2px 4px;
+}
+    

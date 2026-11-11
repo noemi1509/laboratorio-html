@@ -94,7 +94,7 @@ footer {
     color: #526174;
 }
 /*stile della tabella*/
-table, th, td {border:1px solid back !important;}
+table, th, td {border: 1px solid black;}
 capition {font-weight:bold; color:blue;}
 th {background-color: yellow;}
 td {text-align: center;}

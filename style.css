@@ -108,4 +108,8 @@ mark{
     color:#243247;
     padding:2px 4px;
 }
-    
+ .cuore {  
+     color: red;
+     font-size: 30px
+     text-align: center;
+}
